@@ -28,10 +28,13 @@ uv4: [626, 253]
 deepclaw/modules/calibration/Calibration2D.py
 ### Description
 Transfer the image coordinate to robot coordinate with affine transformation.
-### Uasge
+### Usage
 在抓取平面放置四个标记物，拍摄一张照片，记录（手动/自动）其在照片坐标系下的坐标（u，v），
 然后保证机械臂末端竖直（rpy为pi，0,0）,控制机械臂的tcp中心对应走四个标记点，记录其在机械臂坐标系的坐标（x，y）。
-创建标定配置文件，输入两套坐标系下的坐标。然后进行标定
+创建标定配置文件，输入两套坐标系下的坐标。然后进行标定  
+
+*NOTE: 平面放置的四个标记点须张成四边形，即不可有三个或四个点在一条直线上*
+
 ```
     from deepclaw/modules/calibration/Calibration2D import Calibration2D
     hand_eye = Calibration2D(CALI2D_CFG_PATH)
