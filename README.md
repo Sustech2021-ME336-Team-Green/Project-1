@@ -2,6 +2,15 @@
 
 In this project, we reproduce a learning algorithm using 2D images to conduct a simple picking task by identifying the object location.
 
+## Equipments
+
+Franka panda, Franka hand, Intel D435I, PC(msi Trident3)
+
+## Franka arm set up
+
+[Franka panda setting up tutorial ](https://bionicdl.feishu.cn/docs/doccnfGyDtcYwfkxvA0mFD2CVkd#B8wucg)
+
+
 ## Environment Setup
 
 The neccessary 3rd-part library is recorded in the file `Requirements.txt`
@@ -32,6 +41,11 @@ pip install -r requirements.txt
 
 ### Step1: 2D Calibration
 
-[tutorial](./calibration/ReadMe.md)
+[2D calibration tutorial](./calibration/ReadMe.md)
 
 ### Step2: Pick the target
+[2D picking target tutorial](./2Dpicking/readme.md)
+
+## Final video
+[video link of BiliBili](https://www.bilibili.com/video/BV1RA411N7ST/)
+[video link of YouTube](https://www.youtube.com/watch?v=31S3JaH5w9s)
