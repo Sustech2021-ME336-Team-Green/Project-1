@@ -47,5 +47,7 @@ pip install -r requirements.txt
 [2D picking target tutorial](./2Dpicking/readme.md)
 
 ## Final video
+
 [video link of BiliBili](https://www.bilibili.com/video/BV1RA411N7ST/)
+
 [video link of YouTube](https://www.youtube.com/watch?v=31S3JaH5w9s)
