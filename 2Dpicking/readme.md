@@ -10,11 +10,11 @@ The color image obtained by the sensor and the visual recognition algorithm are 
 
 Choose the end-effector.
 
-![image](https://github.com/Sustech2021-ME336-Team-Green/Project-1/blob/main/images/1fc427a3-ba4c-43e3-b2a0-e790c0e3e6f5.png)
+![image](https://github.com/Sustech2021-ME336-Team-Green/Project-1/blob/main/2Dpicking/1fc427a3-ba4c-43e3-b2a0-e790c0e3e6f5.png)
 
-Enalbe the end-effector
+Enalbe the end-effector and ready
 
-![image](https://github.com/Sustech2021-ME336-Team-Green/Project-1/blob/main/images/38c74e9b-86ba-43ef-88bb-26e1be5c654e.png)
+![image](https://github.com/Sustech2021-ME336-Team-Green/Project-1/blob/main/2Dpicking/38c74e9b-86ba-43ef-88bb-26e1be5c654e.png)
 
 ## Run the code of 2D picking
 
