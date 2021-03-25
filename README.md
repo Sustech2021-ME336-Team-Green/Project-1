@@ -1,8 +1,10 @@
 # BionicDL-CobotLearning-Project1: 2D Picking of (x,y)
 
-In this project, we reproduce a learning algorithm using 2D images to conduct a simple picking task by identifying the object location. In this project, we use 
-*Franka panda* and *Franka hand* to implement picking object by using 2D image from *Intel D435I*. First, we set up *Franka arm* by following the tutorial 
-document. Then we set up all the environment in PC. After that, we performed 2D calibration. Finally, we followed the rutorial document to implement picking 
+In this project, we reproduce a learning algorithm using 2D images to conduct a simple picking task by identifying the object location. 
+
+In this project, we use *Franka panda* and *Franka hand* to implement picking object by using 2D image from *Intel D435I*. 
+First, we set up *Franka arm* by following the tutorial document. 
+Then we set up all the environment in PC. After that, we performed 2D calibration. Finally, we followed the rutorial document to implement picking 
 task.
 
 We also provide a video to show our work in the bottom.
