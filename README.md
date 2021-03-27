@@ -80,6 +80,8 @@ A video to show the new algorithm is [here](https://youtu.be/WJCBQwoBXO0)
 
 [video link of YouTube](https://www.youtube.com/watch?v=31S3JaH5w9s)
 
+[our new algorithm video link of YouTube](https://youtu.be/WJCBQwoBXO0)
+
 ## Appendix:
 new-2d-picking.py:
 ```
