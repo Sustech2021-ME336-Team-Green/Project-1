@@ -12,7 +12,7 @@ We also provide a video to show our work in the bottom.
 ## Equipments
 
 **Cobot**: 7-DOF Franka Emika Panda. [Detailed datasheet](https://s3-eu-central-1.amazonaws.com/franka-de-uploads/uploads/Datasheet-EN.pdf) 
-![Franka_panda](./images/Franka_panda)
+![Franka_panda](./images/Franka_panda.jpeg)
 
 Franka panda, Franka hand, Intel D435I, PC(msi Trident3)
 
