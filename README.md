@@ -27,7 +27,7 @@ We also provide a video to show our work in the bottom.
 ![support_structure](./images/support_structure.png)
 
 During Hand-eye calibration process, we use 3D-print made tapered objects to align the end effector of the cobot and the camera position.
-![3D-print1](./images/3d-print1.png) ![3D-print2](./images/3d-print2.png)
+![3D-print1](./images/3D-print1.png) ![3D-print2](./images/3D-print2.png)
 
 ## Franka arm set up
 
