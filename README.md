@@ -72,6 +72,7 @@ pip install -r requirements.txt
 ## Algorithm:
 We also implement a different algorithm to perform the 2D picking task. Details in [here](./2Dpicking/readme.md). The codes are pasted in the Appendix.
 Our new algorithm implements that the hand can pick up the object for different orientation. 
+A video to show the new algorithm is [here](https://bionicdl.feishu.cn/file/boxcnQlhENpI58sqEiX4F4Yj73g?from=from_copylink)
 
 ## Final video
 
